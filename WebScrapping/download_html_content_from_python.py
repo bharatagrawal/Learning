@@ -1,7 +1,7 @@
 #import modules
 from selenium import webdriver
 
-url = "https://python.org"
+url = "http://python.org"
 
 # create driver
 browser = webdriver.Chrome()
